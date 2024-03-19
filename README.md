@@ -65,7 +65,7 @@ Please enter the advance payment amount (Eg 1000 or 0):
 0
 Please enter the interest rate in % (Eg 4.5):
 4.5
-Please enter the loan duration inmonts (Eg 12):
+Please enter the loan duration in monts (Eg 12):
 12
 Please enter the 1st due date (DD/MM/YY .or. DDMMYY) (Eg 31/12/23 .or 311223):
 311223
@@ -101,7 +101,7 @@ Please enter the **advance payment amount** (Eg 1000 or 0):
 1000
 Please enter the interest rate in % (Eg 4.5):
 4.5
-Please enter the loan duration inmonts (Eg 12):
+Please enter the loan duration in monts (Eg 12):
 12
 Please enter the first due date or press ENTER for current date (Format: DD/MM/YY .or. DDMMYY - Eg 31/12/23 or 311223):
 
